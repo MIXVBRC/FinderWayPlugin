@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FinderWay">
+    <output-path>$PROJECT_DIR$/../../Server 1.16.4/plugins</output-path>
+    <root id="archive" name="FinderWay.jar">
+      <element id="module-output" name="FinderWay" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
